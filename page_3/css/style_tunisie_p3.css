@@ -1,0 +1,85 @@
+/* ajouter la balise family */
+html, body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #fff;
+}
+
+.section-nav_1 {
+	background: url(../../images/tunisia-2425441_1280.jpg) no-repeat center / cover;
+    height: 30rem;
+}
+
+.section-nav_2 {
+	background: url(../../images/fountains-264365_1280.jpg) no-repeat center / cover;
+    height: 30rem;
+}
+
+.section-nav_3 {
+	background: url(../../images/roman-2419702_1280.jpg) no-repeat center / cover;
+    height: 30rem;
+}
+
+.padding {
+    padding-top: 20rem;
+}
+
+.villes {
+    padding: 2rem 12rem 1rem;
+}
+
+.co-star {
+    color: #ffe61a;
+}
+
+.line1{
+    background-color: #5271ff;
+    height: 1px;
+    width: 3rem;
+    margin-top: 0.75rem;
+}
+
+.line2{
+    background-color: #5271ff;
+    height: 1px;
+    width: 3rem;
+    margin-top: 0.75rem;
+}
+
+.p-prix{
+    position: absolute;
+    top: 13.5rem;
+    left: 0.5rem;
+    color: white;
+    background-color: #5271ff;
+    font-size: 0.75rem;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.color3 {
+    color: yellow;
+}
+
+.pad {
+    padding: 1rem 5rem;
+}
+
+.bgicon2 {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    color: #fff;
+}
+
+.list {
+    list-style: none;
+}
+
+.color1 {
+    background-color: #ffe61a;
+    border-color: #ffe61a;
+    color: #5271ff;
+}

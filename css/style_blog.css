@@ -1,0 +1,26 @@
+/*style blog et destinations*/
+
+.section-nav {
+    background: url(../images/destinations.jpg) no-repeat center / cover;
+    height: 27rem;
+    padding: 1rem 5rem;;
+}
+
+.blog {
+    padding: 1rem 12rem 1rem;
+}
+
+.line1{
+    background-color: #5271ff;
+    height: 2px;
+    width: 3rem;
+    margin: 1rem 41rem;
+}
+
+.padding {
+    padding-top: 7rem;
+}
+
+.color3 {
+    color: #ffe61a;
+    }

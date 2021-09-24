@@ -1,0 +1,157 @@
+/* ajouter la balise family */
+html, body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.section-nav {
+	background: url(../images/connexion.jpg) no-repeat center / cover;
+    height: 45rem;
+    padding: 1rem 5rem;
+}
+
+.size {
+    font-weight: 500;
+    font-size: 3rem;
+}
+
+.line1{
+    background-color: #5271ff;
+    height: 2px;
+    width: 3rem;
+    margin: 1rem 27rem;
+}
+
+.decrip {
+    font-family: 'Hahmlet', serif;
+    font-weight: 200;
+    font-size: 14px;
+    color: #5271ff;
+}
+
+.description{
+    padding: 12rem 15rem 5rem;
+}
+
+.color1 {
+    background-color: #ffe61a;
+    border-color: #ffe61a;
+    color: #5271ff;
+}
+
+.section-a-propos{
+    background-color: #5271ff;
+    padding: 8rem 15rem;
+    height: 27rem;
+}
+
+.line2{
+    background-color: #fff;
+    height: 2px;
+    width: 3rem;
+    margin: 1rem 30rem;
+}
+
+.section-destinations {
+    color: black;
+    padding: 5rem 12rem;
+}
+
+.color2 {
+    background-color: #5271ff;
+    border: none;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.plus {
+    position: absolute;
+    top: 12rem;
+    left: 1rem;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background: transparent;
+    border: none;
+}
+
+.p-pays {
+    position: absolute;
+    top: 12rem;
+    left: 1rem;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.line3{
+    background-color: #5271ff;
+    height: 2px;
+    width: 3rem;
+    margin: 1rem 43rem;
+}
+
+.section-portfolio {
+    background-color: rgb(53, 52, 52);
+    height: 23rem;
+    padding: 4rem 20rem;
+}
+
+.section-form {
+    padding: 2rem 25rem;
+}
+
+.line3{
+    background-color: #5271ff;
+    height: 2px;
+    width: 3rem;
+    margin: 1rem 43rem;
+}
+
+.form {
+    font-family: 'Hahmlet', serif;
+    font-weight: 200;
+    font-size: 14px;
+    color: black;
+}
+
+.line4{
+    background-color: #5271ff;
+    height: 2px;
+    width: 3rem;
+    margin: 1rem 20rem;
+}
+
+.section_map {
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/maps.jpg) no-repeat center;
+	height:17rem;
+}
+
+.pad5 {
+	padding-top: 6rem;
+}
+
+.line5 {
+    background-color: #5271ff;
+    height: 2px;
+    width: 3rem;
+    margin: 1rem;
+}
+
+.bgicon2 {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    color: #fff;
+}
+
+.list {
+    list-style: none;
+}
+
+.color3 {
+color: #ffe61a;
+}

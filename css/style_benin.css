@@ -1,0 +1,62 @@
+/* ajouter la balise family */
+html, body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #fff;
+}
+
+.section-nav {
+	background: url(../images/porte-de-non-retour.jpg) no-repeat center / cover;
+    height: 30rem;;
+}
+
+.padding {
+    padding-top: 20rem;
+}
+
+.villes {
+    padding: 2rem 12rem 1rem;
+}
+
+.co-star {
+    color: #ffe61a;
+}
+
+.line1{
+    background-color: #5271ff;
+    height: 1px;
+    width: 3rem;
+    margin-top: 0.75rem;
+}
+
+.line2{
+    background-color: #5271ff;
+    height: 1px;
+    width: 3rem;
+    margin-top: 0.75rem;
+}
+
+.color1 {
+    color: #5271ff;
+}
+
+.p-prix{
+    position: absolute;
+    top: 13.5rem;
+    left: 0.5rem;
+    color: white;
+    background-color: #5271ff;
+    font-size: 0.75rem;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.afs1 {
+    padding: 1rem 20rem;
+}
+
+.color3 {
+    color: #ffe61a;
+    }
